@@ -1,1 +1,1 @@
-# ozon-masters-linuxThe first program [hello.py](hello.py)
+The first program [hello.py](hello.py)
